@@ -18,3 +18,7 @@
         </h1>
     </body>
 </html>
+
+- [ ] Verifique os meus projetos
+- [ ] Sugira melhorias
+- [ ] Entrar em contato
